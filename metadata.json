@@ -1,0 +1,5 @@
+{
+  "name": "Bento App",
+  "description": "Generador de Bento Grids impulsado por IA. Crea diseños, edita celdas y exporta directamente a Figma o Illustrator como SVG.",
+  "requestFramePermissions": []
+}
